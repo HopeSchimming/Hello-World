@@ -7,6 +7,8 @@ First Repository
 ## Table of Contents
 
 - [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- 
 -[DESCRIPTION](#Description)
 -[HOW TO RUN PROGRAM](#How-to-run-program)
 -[FILES USED](#files-used)
