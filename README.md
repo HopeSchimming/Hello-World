@@ -12,12 +12,6 @@ First Repository
 - [FILES USED](#Files-used)
 - [ADDITIONAL DOCUMENTATION](#Additional-documentation)
 - [VERSIONING](#Versioning)
-- 
--[DESCRIPTION](#Description)
--[HOW TO RUN PROGRAM](#How-to-run-program)
--[FILES USED](#files-used)
--[ADDITIONAL DOCUMENTATION](#additional-documentaiton)
--[VERSIONING](#versioning)
 
 ## Project Title
 
