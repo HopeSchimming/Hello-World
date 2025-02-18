@@ -8,6 +8,10 @@ First Repository
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILES USED](#Files-used)
+- [ADDITIONAL DOCUMENTATION](#Additional-documentation)
+- [VERSIONING](#Versioning)
 - 
 -[DESCRIPTION](#Description)
 -[HOW TO RUN PROGRAM](#How-to-run-program)
